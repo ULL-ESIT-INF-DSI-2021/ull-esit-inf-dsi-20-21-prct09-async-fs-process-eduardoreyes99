@@ -1,0 +1,17 @@
+TN:
+SF:src/index.ts
+FN:14,add
+FN:30,substract
+FNF:2
+FNH:2
+FNDA:3,add
+FNDA:4,substract
+DA:14,1
+DA:15,3
+DA:30,1
+DA:31,4
+LF:4
+LH:4
+BRF:0
+BRH:0
+end_of_record
