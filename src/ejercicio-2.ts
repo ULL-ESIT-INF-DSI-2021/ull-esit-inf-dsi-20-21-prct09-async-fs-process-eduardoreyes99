@@ -15,7 +15,7 @@ import {access, constants} from 'fs';
 function funcionConPipe(ruta: string, caracteres: boolean,
     palabras: boolean, lineas: boolean): void {
   access(ruta, constants.F_OK, (err) => {
-    console.log(`${ruta} ${err ? 'no exist' : 'existe'}`);
+    console.log(`${ruta} ${err ? 'no existe' : 'existe'}`);
     if (err) {
       process.exit(-1);
     } else {

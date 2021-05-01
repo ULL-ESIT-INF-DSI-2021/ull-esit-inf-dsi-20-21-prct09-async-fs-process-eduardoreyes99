@@ -1,6 +1,11 @@
 {
   "entryPoints": [
-    "src/ejercicio-1.ts"
+    "src/ejercicio-1.ts",
+    "src/ejercicio-2.ts",
+    "src/ejercicio-3/nota.ts",
+    "src/ejercicio-3/gestorNota.ts",
+    "src/ejercicio-3/index.ts",
+    "src/ejercicio-4.ts"
   ],
   "out": "./documentation"
 }
