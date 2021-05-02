@@ -7,5 +7,5 @@
     "src/ejercicio-3/index.ts",
     "src/ejercicio-4.ts"
   ],
-  "out": "./docs"
+  "out": "./documentation"
 }
